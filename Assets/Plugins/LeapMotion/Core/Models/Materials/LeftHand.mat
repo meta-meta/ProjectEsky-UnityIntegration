@@ -67,8 +67,8 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _PressIntensity: 1
-    - _PressRimPower: 7.6
+    - _PressIntensity: 0
+    - _PressRimPower: 8
     - _RimPower: 8
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -79,6 +79,6 @@ Material:
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PressRimColor: {r: 0, g: 0.8217403, b: 0.9528302, a: 1}
-    - _RimColor: {r: 0, g: 0.031219006, b: 1, a: 0}
+    - _PressRimColor: {r: 0, g: 1, b: 0.9852698, a: 1}
+    - _RimColor: {r: 0.16186996, g: 0, b: 0.3679245, a: 1}
   m_BuildTextureStacks: []
